@@ -12,4 +12,4 @@ interface Product {
     _id: string;
     sizes:string[];
     
-  }git add .
+  }
